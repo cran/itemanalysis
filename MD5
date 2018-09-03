@@ -1,0 +1,12 @@
+53a83fbfa96413bc402d238faa512b55 *DESCRIPTION
+34e00422bf2a99e6557e66e0f985583c *NAMESPACE
+ba5917f61fda6e9b24a5d04e4d04c134 *NEWS
+d8edb9f90d699afa9058d2318a556649 *R/itemanalysis1.R
+1470e7acad78fbcabab069c773721aa2 *R/itemanalysis2.R
+0777baf1d5a2308b7668de8020d78d1e *data/dichotomous.RData
+68c461782f7f19990422a816a70c613a *data/timss2011_usa.RData
+add56817e224568932d13ee19f71d609 *man/dichotomous.Rd
+ff50de4a71caccd76d63e802607ef6e1 *man/itemanalysis-package.Rd
+f9bd39894f49e6e8e91818cf7fc9e01d *man/itemanalysis1.Rd
+f28532cb78195f82c922e8cfd2f78a5b *man/itemanalysis2.Rd
+3be4d319a45dd15bf200eec540beea67 *man/timss2011_usa.Rd
